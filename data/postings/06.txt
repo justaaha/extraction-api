@@ -1,0 +1,41 @@
+Junior Software Engineer 
+The Role
+
+Contributes to the overall success of the Global Payments Technology in Canada and globally ensuring specific individual goals, plans, initiatives are executed / delivered in support of the team’s business strategies and objectives. Ensure all activities conducted are following governing regulations, internal policies and procedures.
+
+What You’ll Do
+
+Champions a customer focused culture to deepen client relationships and leverage broader Bank relationships, systems and knowledge.
+Write clean, maintainable, and well documented code under guidance.
+Help document software features and perform reviews with team members
+Participate in code reviews, unit testing, and debugging.
+Learn and adapt to our CI/CD pipelines and cloud deployment practices
+Follow guidance from senior team members and leads
+Understand how the Bank’s risk appetite and risk culture should be considered in day-to-day activities and decisions.
+Actively pursues effective and efficient operations of his/her respective areas in accordance with Scotiabank’s Values, its Code of Conduct and the Global Sales Principles, while ensuring the adequacy, adherence to and effectiveness of day-to-day business controls to meet obligations with respect to operational, compliance, AML/ATF/sanctions and conduct risk.
+Champions a high performance environment and contributes to an inclusive work environment.
+
+What You'll Bring
+
+Familiarity with at least one programming language such as Java, JavaScript, Python
+Basic understanding of relational and NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB).
+Familiarity with RESTful APIs
+Understanding of CI/CD and version control (Git)
+Interest in cloud platforms such as GCP and Azure.
+Strong problem-solving and communication skills.
+Eager to learn and grow in a collaborative environment.
+
+What's in it for you? 
+
+You’ll join a team focused on building cloud platforms as products, enabling delivery teams across the enterprise rather than acting as a centralized gatekeeper or operating within a narrow delivery focus. This role offers exposure to a wide range of technologies, problem domains, and stakeholders.
+Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.
+Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove, and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.
+Upskilling through online courses, cross-functional development opportunities, and tuition assistance.
+Competitive Rewards program including bonus, flexible vacation, personal, sick days, and benefits will start on day one.
+Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs.
+
+Location(s): Canada : Ontario : Toronto
+
+Scotiabank is a leading bank in the Americas. Guided by our purpose: "for every future", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.
+
+At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.

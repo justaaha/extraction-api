@@ -1,0 +1,107 @@
+Technology Analyst - Pyspark developer 
+
+Mississauga, ON · Reposted 2 weeks ago · 66 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+
+Apply
+
+Save
+Your profile and resume are missing some required qualifications
+
+
+
+Show match details
+
+BETA • Is this information helpful?
+
+
+People you can reach out to
+
+School alumni from University of Guelph
+
+Show all
+About the job
+Infosys is seeking an experienced Spark Scala Developer to design, develop, and optimize scalable bigdata solutions. The candidate will work on building high-performance batch and real-time data pipelines leveraging the Hadoop ecosystem and distributed computing frameworks(Spark). The role involves working closely with data engineers, architects, and business stakeholders to deliver robust, scalable, and efficient data processing systems.
+
+Required Qualifications
+
+ Candidates authorized to work for any employer in Canada without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time. 
+ Candidate must be located within commuting distance of Mississauga, Ontario or be willing to relocate to the areas. 
+ Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education. 
+ At least 4 years of Information Technology experience 
+ 4+ years of experience in Big Data technologies. 
+ Strong expertise in:
+ Apache Spark (Core, SQL, DataFrames, RDDs) 
+ Scala programming 
+ PySpark 
+ Hands-on experience with:
+ Kafka (real-time streaming) 
+ Hadoop ecosystem (HDFS, Hive, Impala) 
+ NoSQL Databases (HBase, MongoDB, Couchbase) 
+ Strong understanding of distributed computing concepts and data processing frameworks. 
+ Experience in building ETL/data pipelines for large-scale datasets. 
+ Proficiency in SQL and data modeling. 
+Preferred Qualifications
+
+ Hands-on experience with data lakes, data warehouses, and scalable ETL pipeline design, including batch and real-time processing architecture. 
+ Strong understanding and practical exposure to Agile software development methodologies (Scrum) and SDLC practices. 
+ Proven experience in Banking domain, supporting use cases such as fraud detection, risk analytics, regulatory reporting, and customer insights. 
+ Excellent analytical, problem-solving, and communication skills, with the ability to translate business requirements into scalable technical solutions. 
+ Demonstrated ability to work effectively in cross-functional, multi-stakeholder environments, collaborating with Business, Data Engineering, and Architecture teams. 
+ Experience with real-time data streaming frameworks such as Kafka and Spark Streaming for low-latency processing. 
+ Understanding data modeling concepts (dimensional modeling, snowflake schemas) to support analytics workloads. 
+ Experience and desire to work in a global delivery environment. 
+
+Key Responsibilities:
+
+ Design and develop large-scale data processing pipelines using Apache Spark (Scala & PySpark) 
+ Build and optimize batch and real-time data processing workflows using Spark, Kafka, and Hadoop ecosystem 
+ Develop Spark applications using RDDs, DataFrames, and Spark SQL for complex transformations 
+ Develop and optimize PySpark applications leveraging joins, Spark DAG execution flow, stage optimization, transformation techniques, and streaming with dynamic allocation and failover handling. 
+ Implement streaming pipelines using Kafka and Spark Streaming / Structured Streaming 
+ Develop and maintain HDFS, Hive, NoSql and Impala-based data lake solutions 
+ Convert existing SQL/Hive workloads into optimized Spark jobs for improved performance 
+ Work with ETL pipelines to ingest, cleanse, transform, and process large datasets 
+ Optimize performance through partitioning, caching, serialization, and tuning techniques 
+ Handle data formats such as Parquet, ORC, Avro, JSON 
+ Integrate multiple data sources including streaming systems, flat files RDBMS, and APIs 
+ Collaborate with cross-functional teams to understand business requirements and translate them into scalable technical solutions 
+ Ensure data quality, reliability, and performance monitoring across pipelines 
+ Participate in code reviews, design discussions, and best practices implementation 
+
+Key Skills
+
+ Distributed Data Processing. 
+ Spark Optimization & Performance Tuning. 
+ Real-time Data Streaming. 
+ Data Modeling & ETL Design. 
+ Problem-solving and Analytical Thinking. 
+ Strong Communication & Stakeholder Management. 
+
+Nice To Have
+
+ Exposure to Machine Learning pipelines or MLOps workflows. 
+ Experience with Databricks platform. 
+ Experience with AWS/GCP. 
+
+Summary
+
+This role requires a highly skilled Spark Scala Developer with strong expertise in big data engineering, streaming systems, and distributed computation, capable of building scalable, high-performance data platforms supporting enterprise analytics.
+
+Estimated annual compensation range for the candidate based in the below location will be:
+
+Ontario: $72783 to $105007
+
+The job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email or face to face. Travel may be required as per the job requirements
+
+About Us
+
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+EEO
+
+Infosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.

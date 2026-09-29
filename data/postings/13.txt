@@ -1,0 +1,111 @@
+Gen AI Engineering and Scaled AI TransformationFull job description
+Discover your future at Citi
+Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+Job Overview
+Role Focus:Generative AI Engineering and Scaled AI Transformation for Source to Pay technology group - Hybrid
+
+1. Large Language Model (LLM) Strategy & Technical Authority
+
+Acts as a senior technical authority on Large Language Models, including both commercial and open‑source ecosystems (OpenAI, Gemini, Claude, Llama).
+Leads model selection and deployment strategy, balancing use‑case fit, data sensitivity, cost efficiency, latency, accuracy, and regulatory constraints.
+Guides decisions on hosted vs. private vs. fine‑tuned models, ensuring optimal trade‑offs between performance, control, and operational risk.
+Establishes enterprise standards for LLM lifecycle management, including upgrades, regression validation, and decommissioning.
+2. Hands‑On GenAI Application & Agentic System Design
+
+Demonstrates hands‑on leadership in building GenAI applications using LangChain, LangGraph, LlamaIndex, and Hugging Face, translating experimentation into production systems.
+Architects agentic and multi‑step workflows, enabling tool‑use, reasoning chains, state management, and orchestration at enterprise scale.
+Sets reusable reference patterns and accelerators for GenAI adoption across application teams.
+Ensures solutions are built with enterprise-grade reliability, explainability, and extensibility.
+3. Retrieval Augmented Generation (RAG) & Enterprise Knowledge Enablement
+
+Designs and delivers robust RAG architectures that ground GenAI outputs in trusted, auditable enterprise data.
+Leads implementation of vector databases and embedding strategies (pgvector, Pinecone, Weaviate, FAISS), aligned with data access and security models.
+Applies advanced retrieval techniques including hybrid search, re‑ranking, metadata filtering, and context optimization to improve response accuracy and relevance.
+Ensures RAG solutions support data lineage, auditability, and regulatory compliance.
+4. Prompt Engineering, Workflow Optimization & Cost Control
+
+Establishes prompt engineering and orchestration standards to ensure consistency, maintainability, and quality across GenAI solutions.
+Optimizes GenAI workflows by actively managing latency, throughput, token cost, and accuracy trade‑offs in production environments.
+Implements evaluation and experimentation frameworks to continuously improve output quality and business value.
+Drives disciplined use of caching, batching, fallback models, and token optimization techniques.
+5. Machine Learning & Model Enablement Foundations
+
+Applies strong grounding in ML/DL fundamentals, enabling informed architectural decisions and credible engagement with data science teams.
+Leverages PyTorch and TensorFlow for embeddings, training pipelines, and targeted fine‑tuning where business value is clear.
+Ensures GenAI capabilities integrate seamlessly into the broader ML, data, and MLOps ecosystem.
+Balances rapid GenAI delivery with long‑term model sustainability and governance.
+6. Production Deployment, Scalability & Operational Excellence
+
+Leads deployment of GenAI systems into secure, scalable production environments using Docker, cloud‑native architectures, and hardened APIs.
+Establishes observability and monitoring for GenAI applications, covering performance, drift, quality, reliability, and failure modes.
+Ensures GenAI platforms meet enterprise availability, resilience, and disaster recovery expectations.
+Drives operational readiness, incident management, and ongoing optimization of AI services.
+7. Software Engineering Leadership
+
+Brings strong hands‑on software engineering credibility, setting standards for Python‑based GenAI services.
+Leads development of high‑performance AI‑powered APIs using FastAPI and async programming patterns.
+Champions clean architecture, testability, and security best practices across AI engineering teams.
+Acts as a bridge between traditional application engineering and AI‑native development.
+8. AI Safety, Evaluation & Responsible AI Governance
+
+Leads the implementation of AI evaluation and governance frameworks, including hallucination detection, confidence scoring, and human‑in‑the‑loop validation.
+Designs and enforces guardrails, moderation layers, and usage controls to prevent misuse or unintended outcomes.
+Partners with Risk, Compliance, Legal, and Security teams to embed Responsible AI principles into all GenAI solutions.
+Ensures GenAI adoption withstands audit, regulatory, and reputational scrutiny.
+9. Leadership, Influence & Execution
+
+Operates as a hands‑on SVP, combining strategic influence with deep technical execution.
+Leads senior engineers and GenAI specialists, building sustainable internal AI capability rather than point solutions.
+Communicates complex GenAI concepts clearly to executive and non‑technical stakeholders.
+Drives delivery in agile, fast‑moving environments, with a strong bias for outcomes and measurable value.
+Recommended Qualifications:
+
+10+ years of progressive experience in software engineering, ML, or AI platforms, with 5+ years leading senior engineers and architects.
+3+ years of hands‑on experience deploying LLM‑based systems in production environments at enterprise scale.
+Demonstrated authority across commercial and open‑source LLM ecosystems (e.g., OpenAI, Anthropic, Google, Llama), including model selection, fine‑tuning, and hosting strategies.
+Proven ability to define enterprise-wide GenAI standards, reference architectures, and reusable accelerators.
+Demonstrated leadership in establishing prompt engineering standards and orchestration patterns.
+Experience optimizing latency, throughput, accuracy, and token cost across large‑scale GenAI workloads.
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+Master’s degree preferred
+-
+
+Job Family Group:
+Technology
+-
+
+Job Family:
+Applications Development
+-
+
+Time Type:
+Full time
+-
+
+Primary Location Full Time Salary Range:
+$145,100.00 - $217,700.00
+-
+
+Most Relevant Skills
+Please see the requirements listed above.
+-
+
+Other Relevant Skills
+For complementary skills, please see above and/or contact the recruiter.
+-
+
+Automated Processing and AI
+We use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi.
+
+Importantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details.
+
+-
+
+This job opening is for an existing job vacancy.
+
+-
+
+Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.

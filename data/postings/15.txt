@@ -1,0 +1,83 @@
+Software Engineer
+Inbox Monster
+Burlington, ON
+•
+Hybrid work
+Benefits
+Pulled from the full job description
+Paid time off
+Vision care
+Dental care
+Casual dress
+Extended health care
+Work from home
+Company events
+Full job description
+Company description
+
+Inbox Monster is a next-generation email deliverability threat monitoring platform used by brands and agencies to improve the profitability of their email programs. Our goal is to deliver the technologies and services necessary to enable every Inbox Monster customer to realize their greatest email marketing potential.
+
+The Inbox Monster team is a workforce with team members in Ontario Canada, New Jersey, Charlotte NC, Atlanta, and Chicago. We are currently searching for an ambitious self-starter interested in joining a company that has above-average expectations for its team members and huge ambitions for its business.
+
+Job description
+
+InboxMonster has an exciting opportunity for a Software Engineer. The successful candidate will be part of an agile scrum team developing both the front and back ends of our web analytics platform.
+
+Basic Qualifications
+
+BS/MS in Computer Science or equivalent.
+5 years of software industry experience.
+Programming Experience in any of PHP/Javascript.
+Experience in modern web development with Laravel or Symfony frameworks.
+Experience translating design mockups and prototypes into working applications.
+Passion for user experience and improving usability.
+Good communication skills, both written and verbal.
+Preferred Qualifications
+
+We are looking for software developers with experience building large scale software and application architecture.
+Strong knowledge of data structures, algorithms, and designing for performance, scalability, availability.
+Understanding of Web Application Security best practises.
+Interest in usability
+Mentoring experience
+Strong sense of ownership, urgency, and drive.
+Experience and working knowledge with AI, AI Agents and LLM frameworks
+Responsibilities:
+
+Sharing knowledge and contributing constructively to discussions
+Staying current on industry best practices and how they can be used to continuously improve the Engineering team’s tools and processes
+Pinpointing deficiencies in systems and code; Actively pursuing all means toward improvement and thinking critically
+Contributing to the team’s success by understanding and working towards prevailing objectives
+Adhering to coding standards and processes agreed upon by the team.
+Ensuring security goals are met and exceeded by following SDLC pattern.
+Extra Considerations
+
+Email Protocols SMTP/IMAP
+Email Authentication SPF/DKIM/DMARC
+Experience using Amazon Web Services
+Experience with Laravel
+Experience with RDBMS
+Systems Management
+Job Types: Full-time, Permanent
+
+Pay: $85,000.00-$100,000.00 per year
+
+Benefits:
+
+Casual dress
+Company events
+Dental care
+Extended health care
+Paid time off
+Vision care
+Work from home
+Education:
+
+Bachelor's Degree (required)
+Experience:
+
+Web development: 5 years (required)
+Laravel: 2 years (required)
+Language:
+
+English (required)
+Work Location: Hybrid remote in Burlington, ON

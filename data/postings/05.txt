@@ -1,0 +1,34 @@
+Big Data Developer 
+
+Toronto, ON · Reposted 3 weeks ago · Over 100 applicants
+
+Promoted by hirer · Actively reviewing applicants
+Big Data Developer
+Responsibilities:
+Develop and maintain Big Data and ETL pipelines.
+Process large datasets using Spark and Hadoop.
+Build batch and real-time data solutions.
+Optimize data workflows and performance.
+Collaborate with business and technical teams.
+Ensure data quality and reliability.
+
+Required Skills:
+Strong experience with Spark (PySpark/Scala) and Hadoop.
+Experience with Kafka, SQL, and data warehousing.
+Proficiency in Python, Scala, or Java.
+Hands-on experience with ETL development.
+Knowledge of cloud platforms (AWS, Azure, or GCP).
+Experience with Databricks is preferred.
+
+Nice to Have:
+Snowflake, Airflow, Delta Lake.
+Banking or Financial Services domain experience.
+
+Salary Range - CA$ 90,000 - CA$ 110,000 Per Year
+Requirements added by the job poster
+
+• 8+ years of work experience with Amazon Web Services (AWS)
+
+• 8+ years of work experience with Enterprise Software
+
+• 8+ years of work experience with Angular

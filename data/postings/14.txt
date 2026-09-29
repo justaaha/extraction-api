@@ -1,0 +1,37 @@
+CC AI Technical Lead
+Full job description
+Agilus by Synergie is recruiting for a CC AI Technical Lead in the Insurance Sector in a hybrid work environment in Waterloo, Ontario.
+
+Responsibilities:
+Design and implement voice, chat and other digital contact center solutions.
+Design and implement generative AI solution that bring automation and efficiencies to contact center
+Plan, document, and support the configuration of contact center supporting solutions
+Identify opportunities using CCaaS changes, Generative AI or automation to improve call center metrics, such as handle time, wait times, and containment.
+Lead the integration design efforts for GenAI solutions for contact center.
+Serve as a hands-on technical lead in designing and implementing complex contact center solutions.
+Mentor and guide the development team, promoting a collaborative, hands-on technical culture.
+
+Successful candidates will have:
+Education: Bachelor’s or Master’s degree in Computer Science, Information Systems, or a related field.
+7+ years’ experience working with an enterprise level Contact Center as a platform such as Five9, Google Gemini Enterprise CX, Amazon Connect, or Genesys.
+Experience with CTI integration with Salesforce or other commercially available CRM systems
+Experience in passing context from IVR and chat to the agent as part of designing omnichannel contact center platform.
+Experience in designing and building chatbot and/or voicebot leveraging generative AI cloud solutions such Google Dialogflow or Amazon Lex.
+Strong proficiency in Java, Python and Node.js for backend service integration with CCaaS or AI applications.
+Understanding of API security standards (OAuth, JWT), and RESTful/GraphQL services.
+
+What's in it for you:
+$120000.00 - $145000.00 annually
+Opportunity to join one of the fastest growing Canadian Insurance brands and deliver leading edge techniology initiatives!
+
+Soft skills:
+Strong Communication skills (verbal and written)
+Excellent organizational and time-management abilities
+
+This posting is for an active opening.
+
+Interested?
+Please apply directly online
+
+Agilus by Synergie would like to thank all candidates for their interest in this opportunity. Due to the volume of resumes we receive; we may only be able to respond directly to those candidates being selected for an interview.
+We encourage you to visit agilus.ca regularly or subscribe to our email alerts at agilus.ca/Account/Register as new exciting employment opportunities become available daily.

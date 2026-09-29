@@ -1,0 +1,44 @@
+Software Developer - Data and AI (12 month contract)
+Hammond Power Solutions Inc.
+•
+Guelph, ON • Hybrid work
+•
+$96,800–$145,200 a year
+Apply now
+
+
+Job details
+Here’s how the job details align with your profile.
+Pay
+$96,800–$145,200 a year
+Job type
+Permanent
+Benefits
+Pulled from the full job description
+Paid time off
+Employee assistance program
+Flexible schedule
+Full job description
+Hammond Power Solutions Inc. is a global manufacturer headquartered in Guelph, Ontario, Canada. HPS has grown to become the leader in North America in the custom design and manufacture of dry type transformers. For the past century, HPS has grown to deliver electrical power solutions to global markets and provides solutions for complex applications like, mining, rectifier, drives, traction, wind, solar and many other electrical power applications. The world relies on HPS to continually conceive and produce state-of-the-art transformer technology. We currently have an opening for a Software Developer, Data and AI– 12 month contract, come grow with us!
+
+Reporting to the Manager, Software Development, this role designs, develops and maintains enterprise data solutions that support business operations and strategic decision-making, including data solution architecture, integration and transformation. The incumbent also contributes to AI project lifecycle activities - data preparation, model implementation, deployment, and ongoing support - while building scalable, cloud-ready software applications.
+
+Working closely with business stakeholders across departments, this role gathers requirements, implements and delivers data and AI-driven solutions, and ensures effective knowledge transfer through user training and support.
+
+
+Key Responsibilities Include:
+
+Design end-to-end data solutions (data models, data warehouse, data marts, semantic layers and OLAP cubes) to support analytics, reporting and AI use cases.
+Implement modernization and cloud migration for legacy warehouses and pipelines
+Ensure data quality, lineage and observability across pipelines and models;
+Design and deliver BI dashboards, self-service reports.
+Document architecture, data flows and data definitions to support maintainability
+Collaborate on AI/ML project design; translate business problems into data and modeling requirements.
+Prepare datasets: cleaning, enrichment and feature engineering
+Assist with model integration, deployment, monitoring and retraining procedures
+Collaborate with cross-functional teams to understand business requirements and translate them into technical specifications.
+Efficiently leverage AI-powered coding assistants to develop and deliver high-quality software solutions.
+Create and maintain efficient, scalable, and secure code.
+Participate in code reviews and contribute to continuous improvement.
+Streamline business processes by creating seamless data flows.
+Troubleshoot and resolve issues related to existing data systems and software applications.

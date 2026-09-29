@@ -1,0 +1,142 @@
+AI Engineer Intelligent Systems & Analytics
+QMC Metering Solutions
+·
+4.7
+North York, ON M3C 1Z3
+•
+Hybrid work
+Benefits
+Pulled from the full job description
+Tuition reimbursement
+Paid time off
+Vision care
+Dental care
+Life insurance
+Employee assistance program
+Commuter benefits
+
+Show more
+Full job description
+AI Engineer - Intelligent Systems & Analytics
+
+QMC Metering Solutions supplies and integrates several meter technologies to effectively monitor the consumption of electricity, water, gas and thermal energy consumption of commercial and residential properties. We have offices in Port Coquitlam, Ottawa and Toronto and have a support and distribution network across the country including Edmonton and Montreal.
+
+QMC is seeking an experienced AI Engineer to design and implement machine learning and AI-driven capabilities across our cloud-based utility data and IoT platforms.
+
+This role focuses on transforming large-scale time-series and sensor datasets into predictive insights, automation tools, and intelligent workflows. The ideal candidate has experience deploying ML systems in production environments and building scalable AI services in cloud-native architectures. You will work closely with backend engineers, product teams, and field technology specialists to develop intelligent systems that improve operational efficiency, data quality, and system performance.
+
+Key Responsibilities
+
+Machine Learning & Predictive Modeling
+
+Design, develop, and deploy machine learning models for anomaly detection, forecasting, and predictive maintenance.
+Work with large-scale time-series datasets from metering and IoT systems.
+Perform feature engineering and model optimization.
+Run experiments, validate results, and measure model accuracy.
+Retrain and tune models to prevent drift and maintain performance.
+AI Application Development
+
+Build AI-powered features within SaaS applications.
+Develop natural language interfaces and intelligent query tools.
+Implement Retrieval-Augmented Generation (RAG) pipelines where appropriate.
+Design AI assistants to support operational workflows and technical users.
+Ensure outputs respect security, data privacy, and role-based permissions.
+Data & Infrastructure
+
+Develop scalable data pipelines for ML model training and inference.
+Implement CI/CD processes for model deployment.
+Contribute to cloud architecture design (AWS and/or Azure).
+Monitor model performance and maintain production reliability.
+Collaborate on infrastructure automation and DevOps practices.
+Edge & IoT Intelligence (Preferred)
+
+Develop lightweight analytics for device-level or near-edge processing.
+Optimize models for performance in constrained environments.
+Support telemetry analysis and automated device health monitoring.
+Required Qualifications
+
+5+ years of experience in machine learning engineering or applied data science.
+Degree in Computer Science, Engineering, Mathematics, or related discipline.
+Strong Python experience (TensorFlow, PyTorch, Scikit-learn, or similar).
+Experience deploying ML models in production systems.
+Demonstrated experience in 'Copilot Studio and associated AI Apps'
+Experience working with time-series or sensor-based data.
+Solid understanding of statistical analysis and experimental design.
+Technical Skills
+
+Machine Learning
+
+Time-series forecasting
+Anomaly detection
+Model evaluation frameworks
+Feature engineering
+Model versioning and lifecycle management
+Cloud & DevOps
+
+AWS and/or Azure
+Docker and containerized deployments
+CI/CD pipelines
+Infrastructure automation
+Data Systems
+
+ETL pipeline design
+Large dataset processing
+Experience with modern databases or data warehouses
+Preferred Experience
+
+Experience with IoT or industrial data environments.
+Familiarity with LLM deployment and prompt engineering.
+Experience building secure, multi-tenant AI systems.
+Knowledge of MLOps best practices.
+Core Competencies
+
+Strong analytical and problem-solving skills.
+Ability to work independently on complex, non-routine challenges.
+Clear technical communication.
+Collaborative mindset across cross-functional teams.
+Research-oriented and continuously learning.
+What Success Looks Like
+
+ML models successfully deployed into production environments.
+Measurable improvements in operational insight and automation.
+Stable and scalable AI services integrated into SaaS platforms.
+Clear model performance metrics and monitoring in place.
+Why work with us?
+
+QMC is a leading North American provider of innovative sub‑metering solutions, powered by a diverse and inclusive team. . We offer a supportive, growth‑focused workplace with:
+
+Diverse, inclusive, people‑focused culture
+Active DEIB and Sustainability committees
+Hybrid work options (role‑dependent)
+Competitive benefits plan + bonus incentives
+100% tuition reimbursement
+Annual wellness reimbursement
+Company‑matched RSP contributions
+Paid volunteer day
+Transit subsidy
+Strong recognition programs
+Company social events + team‑building activities
+Join us and grow your career with a team that values your impact!
+
+Job Types: Full-time, Permanent
+
+Benefits:
+
+Commuter benefits
+Company events
+Dental care
+Employee assistance program
+Extended health care
+Life insurance
+On-site parking
+Paid time off
+RRSP match
+Tuition reimbursement
+Vision care
+Wellness program
+Work from home
+Experience:
+
+machine learning engineering or applied data science: 5 years (required)
+strong Python : 5 years (required)
+Work Location: Hybrid remote in North York, ON M3C 1Z3

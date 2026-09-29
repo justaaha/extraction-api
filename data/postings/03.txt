@@ -1,0 +1,88 @@
+Software Engineer I 
+
+Toronto, ON · 4 days ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+
+Apply
+
+Save
+Your profile and resume are missing some required qualifications
+
+
+
+Show match details
+
+BETA • Is this information helpful?
+
+
+People you can reach out to
+
+School alumni from University of Guelph
+
+Show all
+About the job
+Work Location:
+
+Toronto, Ontario, Canada
+
+Hours
+
+37.5
+
+Line Of Business
+
+Technology Solutions
+
+Pay Details
+
+$69,700 - $98,400 CAD
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+Job Description
+
+As a Software Engineer in the onboarding and compliancy team in business banking, you will contribute to the delivery and support of OBNC capabilities by owning engineering work across analysis, development, defect resolution, and operational improvements. You will operate within the pod’s delivery cadence and collaborate with cross pod partners to manage dependencies, deliver prioritized work, and maintain stable outcomes.
+
+Key Responsibilities
+
+Deliver engineering work within the Pod scope: implement fixes, enhancements, and technical improvements aligned to prioritized backlog items
+Participate in pod operating rhythm (e.g., Daily Huddle, technical calls) to coordinate work, manage blockers, and communicate progress
+Perform triage and root cause analysis for issues/defects; implement corrective changes and support validation through testing and controlled releases
+Collaborate with other OBNC pods and stakeholders (e.g., cross pod huddles) to align on dependencies, sequencing, and handoffs.
+Maintain strong delivery hygiene: code reviews, documentation, operational readiness, and transparent tracking in work management tools (e.g., Jira epics/stories).
+Contribute to transition/continuity activities as work moves between pods (noted in OBNC delivery updates).
+Typical Day-to-Day Responsibilities – operate in scaled agile manner, develop/implement feature based solutions, backlog refinement sessions, working within the pod and others for collaboration.
+Full stack developer spending time on Coding, designing/solution, analysis and documentation.
+Trouble shooting defects/production issues.
+
+Experience And / Or Education
+
+MUST-HAVE Hard Skills:
+
+Languages & Framework- Spring Boot / Spring MVC / Restful API / Java 11 and above / Angular 9 and above, PL/SQL, Python
+Database – [Any of these] MS SQL/ Oracle/ MySQL/ Redis
+Message: MQ/Kafka - 3 years
+Other Tools & Scripts – Maven, Confluence, Jira, Github
+Good knowledge in Spring related frameworks and Java 11 and above.
+Ability to work independently under minimal guidance.
+Subject matter expertise and ability to share with less experienced colleagues.
+
+Soft Skills
+
+Strong communication skills
+Attention details
+Organizational skills
+
+NICE-TO-HAVE
+
+Cloud knowledge preferably Azure
+AI capabilities – (copilot)
+Previous banking domain experience
+DevOps- CI/CD
+Domain-driven design, microservices design patterns
